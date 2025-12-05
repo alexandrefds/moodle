@@ -14,3 +14,20 @@ O objetivo é servir como um ambiente de estudo e experimentação, especialment
 
 Após clonar ou configurar este repositório, a estrutura relevante fica assim:
 
+moodle/
+├── theme/
+│ └── simple/ # Tema customizado simples
+
+### 🧩 **Plugins incluídos**
+
+#### **theme_simple**
+Tema básico que estende o Boost e aplica leves modificações visuais.
+
+Caminho:
+moodle/theme/simple/
+---
+
+📄 Licença
+
+Este repositório segue a GPL v3
+, mesma licença do Moodle.
